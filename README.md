@@ -1,14 +1,14 @@
 Several "Test" projects have been uploaded to my repositories.
-Project expressions alert
-Project Functions
-Project Math operators
-Project Dictionaries
-Project comparison type coercion
-Project Temay operators constructors
-Project Scope time function
-Project String Methods
-Project countdown slideshows
-Project loops arrays
+Project expressions alert,
+Project Functions,
+Project Math operators,
+Project Dictionaries,
+Project comparison type coercion,
+Project Temay operators constructors,
+Project Scope time function,
+Project String Methods,
+Project countdown slideshows,
+Project loops arrays.
 
 
 
